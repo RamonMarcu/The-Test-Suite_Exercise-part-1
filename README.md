@@ -42,3 +42,5 @@ At the bottom of index.handlebars, around line 122, add your name next to {{orde
 Checkpoint 5 Passed
 
 5.Run the test suite. Your change in index.handlebars affected the outcome of tests in features/user-visits-index-test.js! When you make the order NOT empty, the starts with an empty order test fails. (You can scroll up the terminal to see more information.)
+
+Practice exercise from Codecademy Pro. 
